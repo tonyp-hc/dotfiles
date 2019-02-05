@@ -3,7 +3,7 @@ personal dotfiles
 
 ## To get started on a new machine:
 ```bash
-$ git clone --recursive https://github.com/feralgroundhog/dotfiles.git
+$ git clone --recursive https://github.com/tonyp-hc/dotfiles.git
 
 # symlink whichever dotfiles you want to use, e.g.,
 $ ln -sf ~/.tmux.conf <reponame>/tmux/.tmux.conf
