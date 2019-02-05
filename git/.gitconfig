@@ -1,0 +1,6 @@
+[user]
+  email = tony@pulickal.net
+	#signingkey = 310E0F0B
+	name = Tony Pulickal
+[push]
+	default = simple
