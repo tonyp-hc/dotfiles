@@ -45,6 +45,13 @@ hi Normal guibg=NONE ctermbg=NONE
 
 
 """""""""""""""""""""
+" POWERLINE 
+"""""""""""""""""""""
+set rtp+=/usr/local/lib/python3.7/site-packages/powerline/bindings/vim
+set laststatus=2
+
+
+"""""""""""""""""""""
 " TERRAFORM SYNTAX 
 """""""""""""""""""""
 let g:terraform_align=1
