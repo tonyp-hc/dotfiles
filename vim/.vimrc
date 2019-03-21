@@ -42,7 +42,8 @@ set backspace=indent,eol,start
 set showcmd
 " transparent background
 hi Normal guibg=NONE ctermbg=NONE
-
+" relative line counts
+set relativenumber
 
 """""""""""""""""""""
 " POWERLINE 
