@@ -1,2 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/ttp/tmp'
+let g:netrw_dirhist_4='/Users/ttp/Work/projects/vault/vault-failover-testing/tx-dr1.vault'
+let g:netrw_dirhist_3='/Users/ttp/Work/projects/consul/consul-ey-aks/ey-consul-demo-app'
+let g:netrw_dirhist_2='/Users/ttp/Work/projects/consul/consul-ey-aks/consul-helm'
+let g:netrw_dirhist_1='/Users/ttp/Work/projects/accounts/deloitte/pov-plan/create-workspaces'
