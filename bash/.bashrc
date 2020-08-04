@@ -2,9 +2,7 @@
 [ -z "$PS1" ] && return
 
 # Source global definitions first
-if [ -f /etc/bashrc ]; then
-        . /etc/bashrc
-fi
+[ -f /etc/bashrc ] && source /etc/bashrc
 
 ## Colors
 force_color_prompt=yes
@@ -77,3 +75,6 @@ exit() {
 
 # Terraform autocompletion
 complete -C /usr/local/bin/terraform terraform
+
+# added by travis gem
+[ -f ${HOME}/.travis/travis.sh ] && source ${HOME}/.travis/travis.sh

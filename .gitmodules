@@ -3,4 +3,10 @@
 	url = https://github.com/hashivim/vim-hashicorp-tools.git
 [submodule "vim/.vim/bundle/vim-gnupg"]
 	path = vim/.vim/bundle/vim-gnupg
-	url = git@github.com:jamessan/vim-gnupg.git
+	url = https://github.com/jamessan/vim-gnupg.git
+[submodule "zsh/oh-my-zsh/custom/plugins/zsh-autosuggestions"]
+	path = zsh/oh-my-zsh/custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "zsh/oh-my-zsh/custom/themes/powerlevel10k"]
+	path = zsh/oh-my-zsh/custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
