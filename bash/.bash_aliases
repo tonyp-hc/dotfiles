@@ -42,6 +42,9 @@ done
 alias whatismyip='wget http://ipinfo.io/ip -qO -'
 alias copymyip="echo $(whatismyip) | pbcopy"
 
+# start vault server in dev mode
+alias vault-dev='vault server -dev -dev-root-token-id="root"'
+
 #
 # get fingerprint for all keys in an authorized_keys file
 fingerprint_keys() {
