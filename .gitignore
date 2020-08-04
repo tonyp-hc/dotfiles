@@ -2,3 +2,5 @@ ssh
 config/karabiner/automatic_backups/
 vim/.vim/.netrwhist
 config/instruqt/
+config/htop/
+config/configstore/
